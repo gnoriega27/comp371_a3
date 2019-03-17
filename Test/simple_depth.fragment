@@ -1,0 +1,7 @@
+#version 330 core
+
+//No color required
+
+void main() {
+    
+}
